@@ -4,7 +4,7 @@ The Fast Five Products (FFP) LLC iOS application template app — FileManager va
 
 - this template: https://github.com/fastfiveproducts/template.ios.filedata
 - the other variant (SwiftData): https://github.com/fastfiveproducts/template.ios.swiftdata
-- this README itself is versioned in Template v0.2.1
+- this README itself is versioned as Template v0.2.1
 - it is expected other files in this repository may be 'ahead' of this version number as additons and improvements are made
 
 ---
